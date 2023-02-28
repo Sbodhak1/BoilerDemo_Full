@@ -6667,6 +6667,28 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 390.0
+  - Name: Label1
+    Id: g=550c0828aff411c7aaa35b25d02fc2f6
+    Type: Label
+    Children:
+    - Name: Text
+      Id: g=d20522bdb4c2cba3760e7fdef96f6ccc
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Boiler Tank"}
+    - Name: TopMargin
+      Id: g=e3ebd4f2c0478a880b419deadc44ccd9
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 83.0
+    - Name: LeftMargin
+      Id: g=7a5feab2cea4c48faea913b0d048fda0
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 249.0
 - Name: Data
   Id: g=1b0dc70d5d42c09a70acec1c917ca5d0
   Supertype: BasePage
