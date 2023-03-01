@@ -6676,7 +6676,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Boiler Tank OPC"}
+      Value: {"LocaleId":"en-US","Text":"Boiler Tank"}
     - Name: TopMargin
       Id: g=e3ebd4f2c0478a880b419deadc44ccd9
       Type: BaseVariableType
