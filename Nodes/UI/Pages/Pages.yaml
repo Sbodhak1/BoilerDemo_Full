@@ -6676,19 +6676,19 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Boiler Tank"}
+      Value: {"LocaleId":"en-US","Text":"Boiler Tank Demo"}
     - Name: TopMargin
       Id: g=e3ebd4f2c0478a880b419deadc44ccd9
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 35.0
+      Value: 36.0
     - Name: LeftMargin
       Id: g=7a5feab2cea4c48faea913b0d048fda0
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 168.0
+      Value: 310.0
     - Name: FontSize
       Id: g=864299c7cde709777e363e6eab9a6b82
       Type: BaseDataVariableType
