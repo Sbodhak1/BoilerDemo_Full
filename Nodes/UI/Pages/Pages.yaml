@@ -6682,19 +6682,19 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 36.0
+      Value: 51.0
     - Name: LeftMargin
       Id: g=7a5feab2cea4c48faea913b0d048fda0
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 310.0
+      Value: 230.0
     - Name: FontSize
       Id: g=864299c7cde709777e363e6eab9a6b82
       Type: BaseDataVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 70.0
+      Value: 40.0
 - Name: Data
   Id: g=1b0dc70d5d42c09a70acec1c917ca5d0
   Supertype: BasePage
