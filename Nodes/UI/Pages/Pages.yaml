@@ -1416,7 +1416,7 @@ Children:
         Type: BaseVariableType
         DataType: Size
         ModellingRule: Optional
-        Value: 164.0
+        Value: 149.0
       - Name: HorizontalAlignment
         Id: g=4a4ffffd51fcc014985d482ee99c11b6
         Type: BaseVariableType
@@ -4817,7 +4817,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 60.0
+      Value: 50.0
   - Name: TankWidget2
     Id: g=b05727bece77b80e9a06d3a9517dfb96
     Type: TankWidget
