@@ -6667,6 +6667,40 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 390.0
+  - Name: Label1
+    Id: g=b44d823bf2745071a4ec84cf1687ead9
+    Type: Label
+    Children:
+    - Name: Text
+      Id: g=acff9387f963afdbfac5760ae9c61023
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Label Updated"}
+    - Name: TopMargin
+      Id: g=942484f7aa4bccefc155cdce8ca75a1b
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 85.0
+    - Name: LeftMargin
+      Id: g=e588c6515719d9f4246e705fd900a368
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 202.0
+    - Name: TextColor
+      Id: g=5a7bf37cc8d2b7c41438425fdcfbbf45
+      Type: BaseDataVariableType
+      DataType: Color
+      ModellingRule: Optional
+      Value: "#08cf2c"
+    - Name: FontSize
+      Id: g=34d343fa75373576f06a1d645e0b31d6
+      Type: BaseDataVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 20.0
 - Name: Data
   Id: g=1b0dc70d5d42c09a70acec1c917ca5d0
   Supertype: BasePage
