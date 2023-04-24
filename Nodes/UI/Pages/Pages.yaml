@@ -6676,7 +6676,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Label Updated"}
+      Value: {"LocaleId":"en-US","Text":"Label Updated 2"}
     - Name: TopMargin
       Id: g=942484f7aa4bccefc155cdce8ca75a1b
       Type: BaseVariableType
@@ -6694,7 +6694,7 @@ Children:
       Type: BaseDataVariableType
       DataType: Color
       ModellingRule: Optional
-      Value: "#08cf2c"
+      Value: "#e581c7"
     - Name: FontSize
       Id: g=34d343fa75373576f06a1d645e0b31d6
       Type: BaseDataVariableType
