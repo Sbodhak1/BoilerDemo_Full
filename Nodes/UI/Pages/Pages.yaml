@@ -6694,7 +6694,7 @@ Children:
       Type: BaseDataVariableType
       DataType: Color
       ModellingRule: Optional
-      Value: "#8189e5"
+      Value: "#bcbfdd"
     - Name: FontSize
       Id: g=34d343fa75373576f06a1d645e0b31d6
       Type: BaseDataVariableType
